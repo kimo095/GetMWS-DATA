@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GetMWS-DATA/static/css/main.e7131f4c.css",
+    "main.js": "/GetMWS-DATA/static/js/main.86a118dd.js",
+    "static/js/787.0c3f432a.chunk.js": "/GetMWS-DATA/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/GetMWS-DATA/index.html",
+    "main.e7131f4c.css.map": "/GetMWS-DATA/static/css/main.e7131f4c.css.map",
+    "main.86a118dd.js.map": "/GetMWS-DATA/static/js/main.86a118dd.js.map",
+    "787.0c3f432a.chunk.js.map": "/GetMWS-DATA/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7131f4c.css",
+    "static/js/main.86a118dd.js"
+  ]
+}
