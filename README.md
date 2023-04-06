@@ -1,5 +1,5 @@
 You can access the live page from here:
-http://kimo095.github.io/OGC-WMS-Project
+http://kimo095.github.io/GetMWS-DATA
 
 //Get capabilites: 
 This is a React functional component called GetCapabilities. It fetches and parses the capabilities of a Web Map Service (WMS) and displays a dropdown list of layer names and their abstracts, along with a legend for the selected layer.
